@@ -27,7 +27,6 @@ MANIFEST
 
 data_set/saved_models
 data_set/logs
-data_set/data_preprocessing.py
 data_set/train_set.tfrecords
 
 # PyInstaller
