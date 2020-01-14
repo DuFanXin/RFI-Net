@@ -7,4 +7,4 @@ In the folder RFI-Net, the rfi-net.py is where the model is constructed and trai
 
 The recognition result is show as below:
 
-![image](./data-set/pictures/recognition_result.png)
+![image](data_set/pictures/recognition_result.png)
